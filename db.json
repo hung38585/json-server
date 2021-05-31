@@ -1,0 +1,82 @@
+{
+  "pages": [
+    {
+      "id": 3,
+      "title": "Page 1",
+      "content": "ưerwer",
+      "template_id": "1"
+    },
+    {
+      "id": 4,
+      "title": "page 2",
+      "content": "page4",
+      "template_id": "1"
+    },
+    {
+      "id": 5,
+      "title": "Page 3",
+      "content": "sdfsdf",
+      "template_id": "1"
+    },
+    {
+      "id": "efd102e1-f100-4dd7-932b-d8a6bc6ecc1a",
+      "title": "Page 4",
+      "content": "asd",
+      "template_id": "2"
+    },
+    {
+      "id": "62a2f880-68e6-4045-8a7d-1a3b78b351c1",
+      "title": "Page 5",
+      "content": "wqe",
+      "template_id": "2"
+    },
+    {
+      "id": "5875dca6-87eb-4cae-8059-83d0bed478ee",
+      "title": "Page 6",
+      "content": "aaa",
+      "template_id": "1"
+    },
+    {
+      "id": "5071adf8-7561-44dc-94ef-745e3c6727b4",
+      "title": "Page 7",
+      "content": "123123",
+      "template_id": "1"
+    },
+    {
+      "id": "7af719ad-0c61-449b-b5ec-789dc131c604",
+      "title": "werwe",
+      "content": "ưerwer",
+      "template_id": "2"
+    },
+    {
+      "id": "410ce891-e7e9-4627-af77-983e0799aed7",
+      "title": "234234",
+      "content": "234234",
+      "template_id": "1"
+    },
+    {
+      "id": "c0bfef4b-5a5a-4c3e-82f8-02a4e63c3398",
+      "title": "jiji",
+      "content": "jiji",
+      "template_id": "1"
+    },
+    {
+      "id": "bc1e9c74-a258-4268-b01e-40146e41d4a2",
+      "title": "hahahaha",
+      "content": "hahaha",
+      "template_id": "1"
+    }
+  ],
+  "templates": [
+    {
+      "id": 1,
+      "name": "Temp1",
+      "content": "<div className=\"card border-success mb-3\"><div className=\"card-header bg-transparent border-success\">Template 1</div><div className=\"card-body text-success\"><h5 className=\"card-title\">page_title</h5><p className=\"card-text\">page_content</p></div><div className=\"card-footer bg-transparent border-success\">Template 1</div></div>"
+    },
+    {
+      "id": 2,
+      "name": "Temp2",
+      "content": "<div className=\"card border-success mb-3\"><div className=\"card-header bg-transparent border-success\">Template 2</div><div className=\"card-body text-primary\"><h5 className=\"card-title\">page_title</h5><p className=\"card-text\">page_content</p></div><div className=\"card-footer bg-transparent border-success\">Template 2</div></div>"
+    }
+  ]
+}
